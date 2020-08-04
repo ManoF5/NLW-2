@@ -1,0 +1,30 @@
+H    T      M        L
+HyperText | Markup | Language
+    
+<head> -> Configurações do documento
+<body> -> Todo conteudo visível do texto
+    <div> -> Caixa/Container
+    <h1>  -> Titulos (h1-h6)tamanho sendo h1 > h6
+    <p>   -> Paragrafos
+    <img> -> imagem
+    <a>   -> link
+
+C           S      S
+Cascading | Style |Sheets
+
+Box Model 
+    border: 1px solid red;
+    padding: 40px;
+    margin: 60px;
+
+    width: 300px;
+    height: 300px;
+
+Display type
+    Regras fora da caixa
+        BLOCK
+            elements: div / h1 / p
+        INLINE
+            elements: a / span / strong
+    Regras dentro da caixa
+        FLEX/GRID
