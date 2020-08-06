@@ -8,7 +8,7 @@ With the site, teachers can continue passing knowledge and students can continue
 
 **How this work?** <br>
 - **Give classes**: The teacher can present their available time, subject to teach, and the value per class/hour.
-- **To study**:  The student can look for the best day, time and subject to study
+- **To study**:  The student can look for the best day, time and subject to study.
 
 
 ## Creation Process
