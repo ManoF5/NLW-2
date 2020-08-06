@@ -27,3 +27,6 @@ With the site, teachers can continue passing knowledge and students can continue
 ![dia3.1](https://user-images.githubusercontent.com/61895268/89449979-37a23200-d730-11ea-94c7-e55d454bcd14.png)
 ![dia3.2](https://user-images.githubusercontent.com/61895268/89449988-3a048c00-d730-11ea-852b-2fa6ed05b391.png) 
 ![dia3.3](https://user-images.githubusercontent.com/61895268/89450000-3b35b900-d730-11ea-8521-62ce1d4de30c.png) 
+
+## Disclaimer
+this project was a part of a free course offered by [**Rocketseat**](https://rocketseat.com.br/)  with classes by professor [Mayk Brito](https://github.com/maykbrito) , the ones I thank for the knowledge.
