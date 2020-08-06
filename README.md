@@ -11,6 +11,7 @@ With the site, teachers can continue passing knowledge and students can continue
 - **To study**:  The student can look for the best day, time and subject to study
 
 
+## Creation Process
 ### DAY 1
 
 ![dia1](https://user-images.githubusercontent.com/61895268/89354015-138e1480-d68e-11ea-9f37-12aaa06e3261.png) 
