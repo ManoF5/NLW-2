@@ -1,0 +1,26 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "![dia1](https://user-images.githubusercontent.com/61895268/89354015-138e1480-d68e-11ea-9f37-12aaa06e3261.png) \r ## DAY 2\r ![dia2.1](https://user-images.githubusercontent.com/61895268/89354016-1557d800-d68e-11ea-85b5-d6aa69beae2f.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoF5/NLW-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoF5/NLW-2/issues"
+  },
+  "homepage": "https://github.com/ManoF5/NLW-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
