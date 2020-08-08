@@ -45,7 +45,7 @@ With the site, teachers can continue passing knowledge and students can continue
 
 - Server configuration
 - Database configuration
-- test: SUCESS!
+- test: SUCCESS!
 
 ## Disclaimer
 this project was a part of a free course offered by [**Rocketseat**](https://rocketseat.com.br/)  with classes by professor [Mayk Brito](https://github.com/maykbrito) , the ones I thank for the knowledge.
