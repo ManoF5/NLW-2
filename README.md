@@ -44,7 +44,7 @@ With the site, teachers can continue passing knowledge and students can continue
 **SQLite** 
 
 - Server configuration
-- Database configuration
+- Database creation and configuration
 - test: SUCCESS!
 
 ## Disclaimer
