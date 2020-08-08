@@ -40,5 +40,12 @@ With the site, teachers can continue passing knowledge and students can continue
 - Applying the routes
 - Keeping data from front-end
 
+### DAY 5 The final day: Database
+**SQLite** 
+
+- Server configuration
+- Database configuration
+- test: SUCESS!
+
 ## Disclaimer
 this project was a part of a free course offered by [**Rocketseat**](https://rocketseat.com.br/)  with classes by professor [Mayk Brito](https://github.com/maykbrito) , the ones I thank for the knowledge.
