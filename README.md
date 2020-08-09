@@ -1,6 +1,6 @@
 # Next Level Week #02 :rocket:
 
-## About the project
+## About this project
 **Proffy is a online study platform.** <br>
 In the time that we live now with social distance and quarantine, 
 schools and colleges had to stop. Proffy became a way out of this situation. 
