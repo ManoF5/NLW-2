@@ -48,9 +48,14 @@ With the site, teachers can continue passing knowledge and students can continue
 - test: SUCCESS!
 
 ### To run this project
-- Install: **Node.js | Nunjucks | Nodemon | SQLite**
-- Open the terminal and type "**node src/server.js**"
-- now you can open the browser and type "**http://localhost:5500/**"
+- Install: **Node.js | node_modules | Nodemon | Nunjucks | SQLite**
+  - [**Node.js**](https://nodejs.org/en/)
+  - **node_modules**: Terminal[ npm install express ]
+  - **Nodemon**: Terminal [ npm install nodemon -D ]
+  - **Nunjucks**: Terminal [ npm install nunjucks ]
+  - **SQLite**: Terminal [ npm install sqlite-async ]
+- Open the terminal and type "**npm run dev**"
+- Now you can open the browser and type "**http://localhost:5500/**"
 
 ## Disclaimer
 this project was a part of a free course offered by [**Rocketseat**](https://rocketseat.com.br/)  with classes by professor [Mayk Brito](https://github.com/maykbrito) , the ones I thank for the knowledge.
