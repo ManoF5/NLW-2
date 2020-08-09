@@ -47,5 +47,10 @@ With the site, teachers can continue passing knowledge and students can continue
 - Database creation and configuration
 - test: SUCCESS!
 
+### To run this project
+- Install: **Node.js | Nunjucks | Nodemon | SQLite**
+- Open the the terminal and type "**node src/server.js**"
+- now you can open the browser and type "**http://localhost:5500/**"
+
 ## Disclaimer
 this project was a part of a free course offered by [**Rocketseat**](https://rocketseat.com.br/)  with classes by professor [Mayk Brito](https://github.com/maykbrito) , the ones I thank for the knowledge.
