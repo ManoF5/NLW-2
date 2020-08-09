@@ -49,7 +49,7 @@ With the site, teachers can continue passing knowledge and students can continue
 
 ### To run this project
 - Install: **Node.js | Nunjucks | Nodemon | SQLite**
-- Open the the terminal and type "**node src/server.js**"
+- Open the terminal and type "**node src/server.js**"
 - now you can open the browser and type "**http://localhost:5500/**"
 
 ## Disclaimer
